@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a55c16f4-856b-46cd-bfc1-c15afcd67fc8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.3_1/libexec" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1djRivM3qPW2W4ufWaAVHRqj6zx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="account-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="pl.piomin.microservices.account.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a55c16f4-856b-46cd-bfc1-c15afcd67fc8" name="Default Changelist" comment="" />
+      <created>1592936646095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592936646095</updated>
+      <workItem from="1592936651563" duration="2267000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom" timestamp="1592942398179">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398179" />
+    <state width="1358" height="243" key="GridCell.Tab.0.center" timestamp="1592942398178">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.center/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398178" />
+    <state width="1358" height="243" key="GridCell.Tab.0.left" timestamp="1592942398178">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.left/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398178" />
+    <state width="1358" height="243" key="GridCell.Tab.0.right" timestamp="1592942398178">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.0.right/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398178" />
+    <state width="1358" height="243" key="GridCell.Tab.1.bottom" timestamp="1592942398180">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.1.bottom/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398180" />
+    <state width="1358" height="243" key="GridCell.Tab.1.center" timestamp="1592942398179">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.1.center/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398179" />
+    <state width="1358" height="243" key="GridCell.Tab.1.left" timestamp="1592942398179">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.1.left/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398179" />
+    <state width="1358" height="243" key="GridCell.Tab.1.right" timestamp="1592942398179">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state width="1358" height="243" key="GridCell.Tab.1.right/0.23.1792.1097@0.23.1792.1097" timestamp="1592942398179" />
+  </component>
+</project>
